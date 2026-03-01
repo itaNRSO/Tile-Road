@@ -1,0 +1,20 @@
+{
+    "name": "TileRoad",
+    "short_name": "TileRoad",
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#172824",
+    "theme_color": "#172824",
+    "description": "This is pazzle game!",
+    "icons": [
+        {
+            "src": "https://itaNRSO.github.io/Tile-Road/icon.png",
+            "sizes": "486x486",
+            "type": "image/png"
+        }
+    ]
+         
+ }
